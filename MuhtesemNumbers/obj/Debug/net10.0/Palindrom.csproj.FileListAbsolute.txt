@@ -1,0 +1,16 @@
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\bin\Debug\net10.0\Palindrom.exe
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\bin\Debug\net10.0\Palindrom.deps.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\bin\Debug\net10.0\Palindrom.runtimeconfig.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\bin\Debug\net10.0\Palindrom.runtimeconfig.dev.json
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\bin\Debug\net10.0\Palindrom.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\bin\Debug\net10.0\Palindrom.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\Palindrom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\Palindrom.AssemblyInfoInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\Palindrom.AssemblyInfo.cs
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\Palindrom.csproj.CoreCompileInputs.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\Palindrom.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\refint\Palindrom.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\Palindrom.pdb
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\Palindrom.genruntimeconfig.cache
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\ref\Palindrom.dll
+C:\Users\Elif\OneDrive\Masaüstü\projelerim C#\Palindrom\obj\Debug\net10.0\Palindrom.csproj.Up2Date
